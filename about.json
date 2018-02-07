@@ -1,12 +1,12 @@
 {
-"name": "Moodle Mobile",
+"name": “Test Moodle Mobile",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
 {
-    "fullname": "Juan Leyva",
+    "fullname": “Kriyansh Graphics”,
     "contribution": "Main developer",
     "company": "CV&A Consulting"
 },
